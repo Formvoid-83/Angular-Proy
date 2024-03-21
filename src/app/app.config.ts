@@ -8,3 +8,4 @@ export const appConfig: ApplicationConfig = {
   providers: [provideRouter(routes), provideHttpClient()] //A http client provider is necessary
 };
 //terp
+//another commit
